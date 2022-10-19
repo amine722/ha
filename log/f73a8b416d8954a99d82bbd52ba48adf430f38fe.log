@@ -1,0 +1,16 @@
+{"level":"debug","source":"server","source":"PHP","time":"2022-10-18T13:06:26+01:00","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2022-10-18T13:06:29+01:00","message":"Using PHP version 7.3.12 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"7.3.12","path":"C:\\wamp64\\bin\\php\\php7.3.12\\php-cgi.exe","port":62650,"time":"2022-10-18T13:06:29+01:00","message":"listening"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:06+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:06+01:00","message":"/dashboard/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:06+01:00","message":"/dashboard/stylesheets/normalize.css"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:06+01:00","message":"/dashboard/javascripts/modernizr.js"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:06+01:00","message":"/dashboard/stylesheets/all.css"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:07+01:00","message":"/dashboard/javascripts/all.js"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:07+01:00","message":"/dashboard/images/fastly-logo.png"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:07+01:00","message":"/dashboard/images/xampp-logo.svg"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:07+01:00","message":"/dashboard/images/bitnami-xampp.png"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:07+01:00","message":"/dashboard/images/social-icons.png"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:10+01:00","message":"/dashboard/images/favicon.png"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:23+01:00","message":"/dashboard/phpinfo.php"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:07:23+01:00","message":"/favicon.ico"}

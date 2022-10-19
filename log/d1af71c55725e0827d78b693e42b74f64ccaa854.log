@@ -1,0 +1,23 @@
+{"level":"debug","source":"server","source":"PHP","time":"2022-10-05T09:14:42+01:00","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2022-10-05T09:14:43+01:00","message":"Using PHP version 7.3.33 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"7.3.33","path":"C:\\xampp\\php\\php-cgi.exe","port":56559,"time":"2022-10-05T09:14:43+01:00","message":"listening"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/stylesheets/normalize.css"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/stylesheets/all.css"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/javascripts/modernizr.js"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/javascripts/all.js"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/images/fastly-logo.png"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/images/xampp-logo.svg"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/images/bitnami-xampp.png"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/images/social-icons.png"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:14:58+01:00","message":"/dashboard/images/favicon.png"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:15:13+01:00","message":"/dashboard/First%20project"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:15:29+01:00","message":"/dashboard/First%20project"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:15:46+01:00","message":"/dashboard/Firstproject"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:16:33+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:16:49+01:00","message":"/FirstProject"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:17:36+01:00","message":"/FirstProject"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:17:56+01:00","message":"/FirstProject/index.php"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:20:05+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":302,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-05T09:21:29+01:00","message":"/Firstproject/teacher"}

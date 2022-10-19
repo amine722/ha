@@ -1,0 +1,15 @@
+{
+    "dir": "C:\\xamp\\htdocs\\ateliertwig",
+    "watch": null,
+    "pid": 1988,
+    "port": 0,
+    "scheme": "",
+    "args": [
+        "C:\\xamp\\php\\php-cgi.exe",
+        "-b",
+        "51258",
+        "-d",
+        "error_log=C:\\Users\\MEHDI\\.symfony5\\log\\c4bdd55adaadd3087aad3090821e468e95af21c5.log"
+    ],
+    "name": "PHP-CGI"
+}

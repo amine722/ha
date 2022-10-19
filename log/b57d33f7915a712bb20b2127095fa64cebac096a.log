@@ -1,0 +1,5 @@
+{"level":"debug","source":"server","source":"PHP","time":"2022-10-19T13:49:35+01:00","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2022-10-19T13:49:35+01:00","message":"Using PHP version 8.1.10 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"8.1.10","path":"C:\\xamp\\php\\php-cgi.exe","port":52203,"time":"2022-10-19T13:49:35+01:00","message":"listening"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-19T13:51:01+01:00","message":"/"}
+{"level":"info","source":"server","ip":"127.0.0.1","status":200,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-19T13:51:02+01:00","message":"/_wdt/96732f"}

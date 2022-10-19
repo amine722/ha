@@ -1,0 +1,15 @@
+{
+    "dir": "C:\\xamp\\htdocs",
+    "watch": null,
+    "pid": 17636,
+    "port": 0,
+    "scheme": "",
+    "args": [
+        "C:\\wamp64\\bin\\php\\php7.3.12\\php-cgi.exe",
+        "-b",
+        "62650",
+        "-d",
+        "error_log=C:\\Users\\MEHDI\\.symfony5\\log\\f73a8b416d8954a99d82bbd52ba48adf430f38fe.log"
+    ],
+    "name": "PHP-CGI"
+}

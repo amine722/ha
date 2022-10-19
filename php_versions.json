@@ -1,0 +1,13 @@
+[
+    {
+        "version": "8.1.10",
+        "path": "C:\\xamp\\php",
+        "php_path": "C:\\xamp\\php\\php.exe",
+        "fpm_path": "",
+        "cgi_path": "C:\\xamp\\php\\php-cgi.exe",
+        "php_config_path": "",
+        "phpize_path": "",
+        "phpdbg_path": "C:\\xamp\\php\\phpdbg.exe",
+        "is_system": true
+    }
+]

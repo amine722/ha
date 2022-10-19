@@ -1,0 +1,3 @@
+{"level":"warn","source":"server","source":"HTTP","error":"Passthru script \"/index.php\" does not exist under C:\\xamp\\htdocs\\frez\\: CreateFile C:\\xamp\\htdocs\\frez\\index.php: The system cannot find the file specified.","time":"2022-10-18T13:36:55+01:00","message":"unable to detect the front controller, disabling the PHP server"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:37:07+01:00","message":"/"}
+{"level":"warn","source":"server","ip":"127.0.0.1","status":404,"method":"GET","scheme":"https","host":"127.0.0.1:8004","time":"2022-10-18T13:37:07+01:00","message":"/favicon.ico"}

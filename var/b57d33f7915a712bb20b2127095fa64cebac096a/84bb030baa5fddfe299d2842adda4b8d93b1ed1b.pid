@@ -1,0 +1,15 @@
+{
+    "dir": "C:\\Users\\MEHDI\\FirstProject",
+    "watch": null,
+    "pid": 8584,
+    "port": 0,
+    "scheme": "",
+    "args": [
+        "C:\\xamp\\php\\php-cgi.exe",
+        "-b",
+        "52203",
+        "-d",
+        "error_log=C:\\Users\\MEHDI\\.symfony5\\log\\b57d33f7915a712bb20b2127095fa64cebac096a.log"
+    ],
+    "name": "PHP-CGI"
+}
